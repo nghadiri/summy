@@ -1,2 +1,2 @@
-# summy
-Summarizer
+# Summy
+Summarizer bot for Telegram groups
